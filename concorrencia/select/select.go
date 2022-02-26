@@ -31,7 +31,7 @@ func main() {
 	campeao := oMaisRapido(
 		"https://www.amazon.com",
 		"https://www.youtube.com",
-		"https://www.cod3r.com.br",
+		"https://www.google.com",
 	)
 	fmt.Println(campeao)
 }
